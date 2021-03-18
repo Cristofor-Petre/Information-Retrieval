@@ -52,6 +52,6 @@ on disk when running the searcher. The query search is preprocessed in the same 
 as each document (remove diacritics and then stemm).
 
 
-JAVA VERSION: 1.8.0_171
-JDK VERSION: 1.8.0_171
-JRE VERSION: 1.8.0_171
+### JAVA VERSION: 1.8.0_171
+### JDK VERSION: 1.8.0_171
+### JRE VERSION: 1.8.0_171
