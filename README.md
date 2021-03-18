@@ -37,7 +37,7 @@ The words with diacritics may not be displaying correctly in the cmd due to the 
 the cmd uses.
 
 
-ABOUT THE PROJECT
+## ABOUT THE PROJECT
 
 I've created separate classes for the Indexer and Searcher with an additional class of
 Preprocesare (responsable for removing diacritics and stemming the words), App (which binds
