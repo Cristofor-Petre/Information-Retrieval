@@ -5,7 +5,7 @@
 HOW TO RUN
 
 - Open cmd and change the current directory to the root of the project where the pom.xml file lies.
-
+- Generate the jar file by typing the following command in cmd:  mvn assembly:single
 - To run the project you need to run the executable jar in the \target directory
 and pass three arguments: the path to the documents, the path where the indexer will be
 saved and the path to the text documents containing queries. After that hit Enter.
